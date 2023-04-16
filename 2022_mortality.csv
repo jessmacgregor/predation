@@ -1,0 +1,49 @@
+Site,Date retrieved,Treatment,Number,Number_scheme_2,Alive after 24hr,Dead after 24 hr,MIA after 24 hr,Predators present,Notes
+OP,8/2/2022,Cage,1,1,1,9,0,,
+OP,8/2/2022,Cage,2,5,5,5,0,,
+OP,8/2/2022,Cage,3,3,6,4,0,,
+OP,8/2/2022,Control,1,4,3,7,0,,
+OP,8/2/2022,Control,2,2,5,5,0,,
+OP,8/2/2022,Control,3,6,7,3,0,,"1 untethered at superglue, alive, brought back to boat"
+NW,8/2/2022,Cage,1,1,2,8,0,,camera 7 from here
+NW,8/2/2022,Cage,2,5,9,0,1,1 OD,"macroalgae present, 1 untethered alive outside cage"
+NW,8/2/2022,Cage,3,3,6,4,0,2 OD,"1 untethered at superglue, alive, brought back to boat"
+NW,8/2/2022,Control,1,4,5,5,0,,camera 3 here
+NW,8/2/2022,Control,2,2,3,7,0,1 whelk,
+NW,8/2/2022,Control,3,6,6,4,0,,
+MT,8/2/2022,Cage,1,1,2,8,0,,camera 8
+MT,8/2/2022,Cage,2,5,5,5,0,1 whelk,whelk actively predating
+MT,8/2/2022,Cage,3,3,1,9,0,1 whelk,
+MT,8/2/2022,Control,1,4,1,9,0,,camera 6
+MT,8/2/2022,Control,2,2,4,6,0,1 whelk,
+MT,8/2/2022,Control,3,6,2,7,1,2 whelk,
+CY,8/2/2022,Cage,1,1,5,3,2,,"camera 2, 1 MIA stand present, 1 alive detached from stand out of area"
+CY,8/2/2022,Cage,2,5,4,6,0,,
+CY,8/2/2022,Cage,3,3,6,4,0,,
+CY,8/2/2022,Control,1,4,3,7,0,1 whelk,camera 4
+CY,8/2/2022,Control,2,2,3,7,0,1 whelk,"initially said 9 alive 1 dead so check new bags to confirm, some of thees dead might be MIA"
+CY,8/2/2022,Control,3,6,0,9,1,1 whelk,stand present
+OP,9/20/2022,Cage,1,1,5,5,,1 whelk,
+OP,9/20/2022,Cage,2,5,3,7,0,1 whelk,"whelk attached to line, 2 untethered left, 8 stakes brought up, 2 stakes brought up second round with no scallops attached."
+OP,9/20/2022,Cage,3,3,0,10,0,"2 whelk, 1 oyster drill in scallop shell",
+OP,9/20/2022,Control,1,4,0,9,1,,
+OP,9/20/2022,Control,2,2,0,10,0,1 whelk,
+OP,9/20/2022,Control,3,6,1,8,1,,1 untethered don't know if alive or dead check second round of bags
+NW,9/20/2022,Cage,1,1,5,5,0,,1 untethered - dead
+NW,9/20/2022,Cage,2,5,1,9,0,,"1 whelk, 1 oyster drill"
+NW,9/20/2022,Cage,3,3,2,8,0,,
+NW,9/20/2022,Control,1,4,2,6,2,,
+NW,9/20/2022,Control,2,2,4,3,3,1 whek,
+NW,9/20/2022,Control,3,6,6,4,0,3 whelk present,
+MT,9/20/2022,Cage,1,1,4,6,,10 oyster drills,
+MT,9/20/2022,Cage,2,5,6,4,,6 oyster drills,
+MT,9/20/2022,Cage,3,3,6,4,,1 oyster drill,
+MT,9/20/2022,Control,1,4,6,4,,2 oyster drills,
+MT,9/20/2022,Control,2,2,1,9,,1 spider crab,
+MT,9/20/2022,Control,3,6,6,4,,2 oyster drill,
+CY,9/20/2022,Cage,1,1,6,3,1,"1 whelk, 5 oyster drill",
+CY,9/20/2022,Cage,2,5,6,3,1,,
+CY,9/20/2022,Cage,3,3,5,3,2,"1 dead untethered, 5 stakes 3 scallops",
+CY,9/20/2022,Control,1,4,5,4,1,mud crabs and OD inside,
+CY,9/20/2022,Control,2,2,8,2,0,initially said 3 but only 2 - check other bag,
+CY,9/20/2022,Control,3,6,6,4,0,2 dead untethered ,

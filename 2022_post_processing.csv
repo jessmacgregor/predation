@@ -1,0 +1,485 @@
+Site,Date deployed,Time deployed ,24 hour trial?,Date pulled,Time pulled,Treatment,Square number,Scallop Number,Status when pulled,Post processing mark,Post processing predation analysis ,Notes
+Orient Point,8/2/2022,9:00 AM,yes,8/3/2022,9:00 AM,Cage,1,1,clucker,crab chip,small crab,also small potential whelk notch
+Orient Point,8/2/2022,9:00 AM,yes,8/3/2022,9:00 AM,Cage,1,2,clucker,none,unknown,*mud crab found inside
+Orient Point,8/2/2022,9:00 AM,yes,8/3/2022,9:00 AM,Cage,1,3,clucker,small crab pry,small crab,
+Orient Point,8/2/2022,9:00 AM,yes,8/3/2022,9:00 AM,Cage,1,4,clucker,notch,whelk,
+Orient Point,8/2/2022,9:00 AM,yes,8/3/2022,9:00 AM,Cage,1,5,clucker,crab pry,small crab,evidence of boring polychaete
+Orient Point,8/2/2022,9:00 AM,yes,8/3/2022,9:00 AM,Cage,1,6,clucker,small potential crab pry,unknown,evidence of boring polychaete
+Orient Point,8/2/2022,9:00 AM,yes,8/3/2022,9:00 AM,Cage,1,7,clucker,small hole,spider crab,hole on top of shell
+Orient Point,8/2/2022,9:00 AM,yes,8/3/2022,9:00 AM,Cage,1,8,unhinged,small potential ear chip,unknown,evidence of boring polychaete
+Orient Point,8/2/2022,9:00 AM,yes,8/3/2022,9:00 AM,Cage,1,9,broken,big crab chip,crab,evidence of boring polychaete
+Orient Point,8/2/2022,9:00 AM,no,8/15/2022,9:30 AM,Cage,1,10,half shell,none,unknown,evidence of boring polychaete
+Orient Point,8/2/2022,9:00 AM,yes,8/3/2022,9:00 AM,Cage,2,1,broken,big crab chip,crab,hole in center was post-pull damage
+Orient Point,8/2/2022,9:00 AM,yes,8/3/2022,9:00 AM,Cage,2,2,broken,hole,spider crap,shell weakness evident
+Orient Point,8/2/2022,9:00 AM,yes,8/3/2022,9:00 AM,Cage,2,3,unhinged,none,unknown,
+Orient Point,8/2/2022,9:00 AM,yes,8/3/2022,9:00 AM,Cage,2,4,broken,big ear chip,crab,
+Orient Point,8/2/2022,9:00 AM,yes,8/3/2022,9:00 AM,Cage,2,5,broken half shell,broken at ear,crab,"*piece of ear left, crab?"
+Orient Point,8/2/2022,9:00 AM,no,8/15/2022,9:30 AM,Cage,2,6,clucker,none,unknown,
+Orient Point,8/2/2022,9:00 AM,no,8/15/2022,9:30 AM,Cage,2,7,unhinged,none,unknown,
+Orient Point,8/2/2022,9:00 AM,no,8/15/2022,9:30 AM,Cage,2,8,half shell,none,unknown,
+Orient Point,8/2/2022,9:00 AM,no,8/15/2022,9:30 AM,Cage,2,9,did not recover,none,unsure,
+Orient Point,8/2/2022,9:00 AM,no,8/15/2022,9:30 AM,Cage,2,10,did not recover,none,unsure,
+Orient Point,8/2/2022,9:00 AM,yes,8/3/2022,9:00 AM,Cage,3,1,clucker,none,unknown,
+Orient Point,8/2/2022,9:00 AM,yes,8/3/2022,9:00 AM,Cage,3,2,clucker,very small crab pry,unknown,damage at ear but probably from line
+Orient Point,8/2/2022,9:00 AM,yes,8/3/2022,9:00 AM,Cage,3,3,clucker,none,unknown,
+Orient Point,8/2/2022,9:00 AM,yes,8/3/2022,9:00 AM,Cage,3,4,half shell,small ear chip,unknown,
+Orient Point,8/2/2022,9:00 AM,no,8/15/2022,9:30 AM,Cage,3,5,unhinged,chip,crab,
+Orient Point,8/2/2022,9:00 AM,no,8/15/2022,9:30 AM,Cage,3,6,unhinged,notch,whelk,
+Orient Point,8/2/2022,9:00 AM,no,8/15/2022,9:30 AM,Cage,3,7,unhinged,notch,whelk,
+Orient Point,8/2/2022,9:00 AM,no,8/15/2022,9:30 AM,Cage,3,8,half shell,none,unknown,
+Orient Point,8/2/2022,9:00 AM,no,8/15/2022,9:30 AM,Cage,3,9,clucker,pry,small crab,
+Orient Point,8/2/2022,9:00 AM,no,8/15/2022,9:30 AM,Cage,3,10,unhinged,pry,small crab,
+Orient Point,8/2/2022,9:00 AM,yes,8/3/2022,9:00 AM,Control,1,1,clucker,none,unknown,
+Orient Point,8/2/2022,9:00 AM,yes,8/3/2022,9:00 AM,Control,1,2,clucker,pry,crab,hole also but doesn't look crabby
+Orient Point,8/2/2022,9:00 AM,yes,8/3/2022,9:00 AM,Control,1,3,clucker,chip,crab,chip at ear
+Orient Point,8/2/2022,9:00 AM,yes,8/3/2022,9:00 AM,Control,1,4,clucker,hole,spider crab,
+Orient Point,8/2/2022,9:00 AM,yes,8/3/2022,9:00 AM,Control,1,5,half shell,none,unknown,
+Orient Point,8/2/2022,9:00 AM,yes,8/3/2022,9:00 AM,Control,1,6,half shell,pry,crab,
+Orient Point,8/2/2022,9:00 AM,yes,8/3/2022,9:00 AM,Control,1,7,half shell,none,unknown,
+Orient Point,8/2/2022,9:00 AM,no,8/15/2022,9:30 AM,Control,1,8,unhinged,none,unknown,
+Orient Point,8/2/2022,9:00 AM,no,8/15/2022,9:30 AM,Control,1,9,unhinged,none,unknown,
+Orient Point,8/2/2022,9:00 AM,no,8/15/2022,9:30 AM,Control,1,10,half shell,hole,spider crab,
+Orient Point,8/2/2022,9:00 AM,yes,8/3/2022,9:00 AM,Control,2,1,clucker,small ear chip,unknown,small boring polychaete bubble
+Orient Point,8/2/2022,9:00 AM,yes,8/3/2022,9:00 AM,Control,2,2,clucker,none,unknown,boring polychaete damage
+Orient Point,8/2/2022,9:00 AM,yes,8/3/2022,9:00 AM,Control,2,3,clucker,small pry,unknown,
+Orient Point,8/2/2022,9:00 AM,yes,8/3/2022,9:00 AM,Control,2,4,clucker,notch,whelk,
+Orient Point,8/2/2022,9:00 AM,yes,8/3/2022,9:00 AM,Control,2,5,clucker,ear chip,crab,
+Orient Point,8/2/2022,9:00 AM,yes,8/3/2022,9:00 AM,Control,2,6,alive,none,NA,we put this guy away alive
+Orient Point,8/2/2022,9:00 AM,no,8/15/2022,9:30 AM,Control,2,7,clucker,notch,whelk,
+Orient Point,8/2/2022,9:00 AM,no,8/15/2022,9:30 AM,Control,2,8,unhinged,none,unknown,
+Orient Point,8/2/2022,9:00 AM,no,8/15/2022,9:30 AM,Control,2,9,unhinged,pry,small crab,pry is small
+Orient Point,8/2/2022,9:00 AM,no,8/15/2022,9:30 AM,Control,2,10,did not recover,none,unsure,
+Orient Point,8/2/2022,9:00 AM,yes,8/3/2022,9:00 AM,Control,3,1,clucker,none,unknown,
+Orient Point,8/2/2022,9:00 AM,yes,8/3/2022,9:00 AM,Control,3,2,half shell,chips,unknown,damage at hinge
+Orient Point,8/2/2022,9:00 AM,yes,8/3/2022,9:00 AM,Control,3,3,half shell,none,unknown,
+Orient Point,8/2/2022,9:00 AM,yes,8/3/2022,9:00 AM,Control,3,4,alive,none,NA,
+Orient Point,8/2/2022,9:00 AM,no,8/15/2022,9:30 AM,Control,3,5,clucker,none,unknown,
+Orient Point,8/2/2022,9:00 AM,no,8/15/2022,9:30 AM,Control,3,6,unhinged,pry,crab,
+Orient Point,8/2/2022,9:00 AM,no,8/15/2022,9:30 AM,Control,3,7,half shell,none,unknown,
+Orient Point,8/2/2022,9:00 AM,no,8/15/2022,9:30 AM,Control,3,8,unhinged,small pry,unknown,
+Orient Point,8/2/2022,9:00 AM,no,8/15/2022,9:30 AM,Control,3,9,did not recover,none,unsure,
+Orient Point,8/2/2022,9:00 AM,no,8/15/2022,9:30 AM,Control,3,10,did not recover,none,unsure,
+NW Harbor,8/2/2022,10:45 AM,yes,8/3/2022,11:00 AM,Cage,1,1,clucker,small pry,small crab,damage at ear
+NW Harbor,8/2/2022,10:45 AM,yes,8/3/2022,11:00 AM,Cage,1,2,clucker,none,unknown,
+NW Harbor,8/2/2022,10:45 AM,yes,8/3/2022,11:00 AM,Cage,1,3,clucker,none,unknown,
+NW Harbor,8/2/2022,10:45 AM,yes,8/3/2022,11:00 AM,Cage,1,4,clucker,none,unknown,small boring polychaete bubble
+NW Harbor,8/2/2022,10:45 AM,yes,8/3/2022,11:00 AM,Cage,1,5,unhinged,none,unknown,
+NW Harbor,8/2/2022,10:45 AM,yes,8/3/2022,11:00 AM,Cage,1,6,clucker,large chip,crab,
+NW Harbor,8/2/2022,10:45 AM,yes,8/3/2022,11:00 AM,Cage,1,7,unhinged,large chip,crab,
+NW Harbor,8/2/2022,10:45 AM,yes,8/3/2022,11:00 AM,Cage,1,8,unhinged,none,unknown,
+NW Harbor,8/2/2022,10:45 AM,no,8/15/2022,11:00 AM,Cage,1,9,clucker,none,unknown,
+NW Harbor,8/2/2022,10:45 AM,no,8/15/2022,11:00 AM,Cage,1,10,clucker,pry,unknown,pry is very small
+NW Harbor,8/2/2022,10:45 AM,yes,8/3/2022,11:00 AM,Cage,2,1,alive,none,NA,
+NW Harbor,8/2/2022,10:45 AM,no,8/15/2022,11:00 AM,Cage,2,2,unhinged,none,unknown,
+NW Harbor,8/2/2022,10:45 AM,no,8/15/2022,11:00 AM,Cage,2,3,unhinged,small pry,unknown,
+NW Harbor,8/2/2022,10:45 AM,no,8/15/2022,11:00 AM,Cage,2,4,clucker,none,unknown,
+NW Harbor,8/2/2022,10:45 AM,no,8/15/2022,11:00 AM,Cage,2,5,unhinged,chip,crab,
+NW Harbor,8/2/2022,10:45 AM,no,8/15/2022,11:00 AM,Cage,2,6,unhinged,notch,whelk,
+NW Harbor,8/2/2022,10:45 AM,no,8/15/2022,11:00 AM,Cage,2,7,half shell,none,unknown,
+NW Harbor,8/2/2022,10:45 AM,no,8/15/2022,11:00 AM,Cage,2,8,half shell,none,unknown,
+NW Harbor,8/2/2022,10:45 AM,no,8/15/2022,11:00 AM,Cage,2,9,did not recover,none,unsure,
+NW Harbor,8/2/2022,10:45 AM,no,8/15/2022,11:00 AM,Cage,2,10,did not recover,none,unsure,
+NW Harbor,8/2/2022,10:45 AM,yes,8/3/2022,11:00 AM,Cage,3,1,clucker,none,unknown,
+NW Harbor,8/2/2022,10:45 AM,yes,8/3/2022,11:00 AM,Cage,3,2,clucker,small pry,unknown,
+NW Harbor,8/2/2022,10:45 AM,yes,8/3/2022,11:00 AM,Cage,3,3,clucker,none,unknown,
+NW Harbor,8/2/2022,10:45 AM,yes,8/3/2022,11:00 AM,Cage,3,4,half shell,none,unknown,
+NW Harbor,8/2/2022,10:45 AM,no,8/15/2022,11:00 AM,Cage,3,5,unhinged,small pry,unknown,
+NW Harbor,8/2/2022,10:45 AM,no,8/15/2022,11:00 AM,Cage,3,6,unhinged,none,unknown,
+NW Harbor,8/2/2022,10:45 AM,no,8/15/2022,11:00 AM,Cage,3,7,unhinged,none,unknown,
+NW Harbor,8/2/2022,10:45 AM,no,8/15/2022,11:00 AM,Cage,3,8,half shell,none,unknown,
+NW Harbor,8/2/2022,10:45 AM,no,8/15/2022,11:00 AM,Cage,3,9,unhinged,none,unknown,
+NW Harbor,8/2/2022,10:45 AM,no,8/15/2022,11:00 AM,Cage,3,10,unhinged,chip,crab,
+NW Harbor,8/2/2022,10:45 AM,yes,8/3/2022,11:00 AM,Control,1,1,alive,none,NA,
+NW Harbor,8/2/2022,10:45 AM,yes,8/3/2022,11:00 AM,Control,1,2,clucker,none,unknown,
+NW Harbor,8/2/2022,10:45 AM,yes,8/3/2022,11:00 AM,Control,1,3,unhinged,ear chip,crab,
+NW Harbor,8/2/2022,10:45 AM,yes,8/3/2022,11:00 AM,Control,1,4,clucker,ear chip,crab,
+NW Harbor,8/2/2022,10:45 AM,yes,8/3/2022,11:00 AM,Control,1,5,half shell,broken,crab,
+NW Harbor,8/2/2022,10:45 AM,yes,8/3/2022,11:00 AM,Control,1,6,half shell,broken,crab,
+NW Harbor,8/2/2022,10:45 AM,no,8/15/2022,11:00 AM,Control,1,7,unhinged,pry,small crab,
+NW Harbor,8/2/2022,10:45 AM,no,8/15/2022,11:00 AM,Control,1,8,unhinged,pry,unknown,pry is small
+NW Harbor,8/2/2022,10:45 AM,no,8/15/2022,11:00 AM,Control,1,9,unhinged,none,unknown,
+NW Harbor,8/2/2022,10:45 AM,no,8/15/2022,11:00 AM,Control,1,10,half shell,small pry marks,unknown,
+NW Harbor,8/2/2022,10:45 AM,yes,8/3/2022,11:00 AM,Control,2,1,clucker,ear chip,crab,boring polychaete damage
+NW Harbor,8/2/2022,10:45 AM,yes,8/3/2022,11:00 AM,Control,2,2,clucker,none,unknown,
+NW Harbor,8/2/2022,10:45 AM,yes,8/3/2022,11:00 AM,Control,2,3,clucker,notch,whelk,notch is small
+NW Harbor,8/2/2022,10:45 AM,yes,8/3/2022,11:00 AM,Control,2,4,clucker,none,unknown,boring polychaete damage
+NW Harbor,8/2/2022,10:45 AM,yes,8/3/2022,11:00 AM,Control,2,5,unhinged,ear chip,crab,*also small potential whelk notch
+NW Harbor,8/2/2022,10:45 AM,yes,8/3/2022,11:00 AM,Control,2,6,unhinged,pry,small crab,shell weak
+NW Harbor,8/2/2022,10:45 AM,yes,8/3/2022,11:00 AM,Control,2,7,half shell,broken,crab,
+NW Harbor,8/2/2022,10:45 AM,no,8/15/2022,11:00 AM,Control,2,8,unhinged,chip,crab,
+NW Harbor,8/2/2022,10:45 AM,no,8/15/2022,11:00 AM,Control,2,9,unhinged,none,unknown,
+NW Harbor,8/2/2022,10:45 AM,no,8/15/2022,11:00 AM,Control,2,10,unhinged,notch,whelk,
+NW Harbor,8/2/2022,10:45 AM,no,8/15/2022,11:00 AM,Control,2,11,half shell,hole,spider crab,*could have been from another trial
+NW Harbor,8/2/2022,10:45 AM,yes,8/3/2022,11:00 AM,Control,3,1,unhinged,ear chip,crab,
+NW Harbor,8/2/2022,10:45 AM,yes,8/3/2022,11:00 AM,Control,3,2,clucker,none,unknown,
+NW Harbor,8/2/2022,10:45 AM,yes,8/3/2022,11:00 AM,Control,3,3,clucker,ear damage,unknown,damage on ear likely from line
+NW Harbor,8/2/2022,10:45 AM,yes,8/3/2022,11:00 AM,Control,3,4,clucker,none,unknown,
+NW Harbor,8/2/2022,10:45 AM,no,8/15/2022,11:00 AM,Control,3,5,half shell,none,unknown,
+NW Harbor,8/2/2022,10:45 AM,no,8/15/2022,11:00 AM,Control,3,6,half shell,broken,crab,hinge still attached
+NW Harbor,8/2/2022,10:45 AM,no,8/15/2022,11:00 AM,Control,3,7,unhinged,ear damage,unknown,unsure if line caused ear damage
+NW Harbor,8/2/2022,10:45 AM,no,8/15/2022,11:00 AM,Control,3,8,clucker,none,unknown,
+NW Harbor,8/2/2022,10:45 AM,no,8/15/2022,11:00 AM,Control,3,9,clucker,notch,whelk,
+NW Harbor,8/2/2022,10:45 AM,no,8/15/2022,11:00 AM,Control,3,10,clucker,pry,unknown,
+Mattituck,8/2/2022,1:30:00 PM,yes,8/3/2022,1:00 PM,Cage,1,1,clucker,none,unknown,damage on ear likely from line
+Mattituck,8/2/2022,1:30:00 PM,yes,8/3/2022,1:00 PM,Cage,1,2,clucker,none,unknown,mud crab inside
+Mattituck,8/2/2022,1:30:00 PM,yes,8/3/2022,1:00 PM,Cage,1,3,clucker,pry,small crab,
+Mattituck,8/2/2022,1:30:00 PM,yes,8/3/2022,1:00 PM,Cage,1,4,clucker,none,unknown,damage on ear I did
+Mattituck,8/2/2022,1:30:00 PM,yes,8/3/2022,1:00 PM,Cage,1,5,clucker,none,unknown,
+Mattituck,8/2/2022,1:30:00 PM,yes,8/3/2022,1:00 PM,Cage,1,6,clucker,boring polychaete damage on top of shell,unknown,
+Mattituck,8/2/2022,1:30:00 PM,yes,8/3/2022,1:00 PM,Cage,1,7,clucker,hole,spider crab,
+Mattituck,8/2/2022,1:30:00 PM,yes,8/3/2022,1:00 PM,Cage,1,8,half shell,none,unknown,
+Mattituck,8/2/2022,1:30:00 PM,no,8/15/2022,1:15 PM,Cage,1,9,clucker,notch,whelk,
+Mattituck,8/2/2022,1:30:00 PM,no,8/15/2022,1:15 PM,Cage,1,10,half shell,none,unknown,
+Mattituck,8/2/2022,1:30:00 PM,yes,8/3/2022,1:00 PM,Cage,2,1,clucker,small ear chip,unknown,boring polychaete
+Mattituck,8/2/2022,1:30:00 PM,yes,8/3/2022,1:00 PM,Cage,2,2,clucker,pry,small crab,
+Mattituck,8/2/2022,1:30:00 PM,yes,8/3/2022,1:00 PM,Cage,2,3,clucker,pry,small crab,
+Mattituck,8/2/2022,1:30:00 PM,yes,8/3/2022,1:00 PM,Cage,2,4,clucker,notch,whelk,notch is small
+Mattituck,8/2/2022,1:30:00 PM,yes,8/3/2022,1:00 PM,Cage,2,5,half shell,damage at hinge,unknown,
+Mattituck,8/2/2022,1:30:00 PM,no,8/15/2022,1:15 PM,Cage,2,6,unhinged,pry,small crab,pry is small
+Mattituck,8/2/2022,1:30:00 PM,no,8/15/2022,1:15 PM,Cage,2,7,clucker,notch,whelk,notch on side near where pry marks usually are
+Mattituck,8/2/2022,1:30:00 PM,no,8/15/2022,1:15 PM,Cage,2,8,unhinged,none,unknown,unknown
+Mattituck,8/2/2022,1:30:00 PM,no,8/15/2022,1:15 PM,Cage,2,9,unhinged,none,unknown,
+Mattituck,8/2/2022,1:30:00 PM,no,8/15/2022,1:15 PM,Cage,2,10,half shell,chip,crab,
+Mattituck,8/2/2022,1:30:00 PM,yes,8/3/2022,1:00 PM,Cage,3,1,clucker,none,unknown,
+Mattituck,8/2/2022,1:30:00 PM,yes,8/3/2022,1:00 PM,Cage,3,2,clucker,ear chip,crab,
+Mattituck,8/2/2022,1:30:00 PM,yes,8/3/2022,1:00 PM,Cage,3,3,clucker,ear chip,crab,ear chip likely from line
+Mattituck,8/2/2022,1:30:00 PM,yes,8/3/2022,1:00 PM,Cage,3,4,clucker,none,unknown,
+Mattituck,8/2/2022,1:30:00 PM,yes,8/3/2022,1:00 PM,Cage,3,5,clucker,none,unknown,
+Mattituck,8/2/2022,1:30:00 PM,yes,8/3/2022,1:00 PM,Cage,3,6,clucker,ear chip,crab,
+Mattituck,8/2/2022,1:30:00 PM,yes,8/3/2022,1:00 PM,Cage,3,7,unhinged,none,unknown,
+Mattituck,8/2/2022,1:30:00 PM,yes,8/3/2022,1:00 PM,Cage,3,8,clucker,none,unknown,
+Mattituck,8/2/2022,1:30:00 PM,yes,8/3/2022,1:00 PM,Cage,3,9,half shell,none,unknown,
+Mattituck,8/2/2022,1:30:00 PM,no,8/15/2022,1:15 PM,Cage,3,10,clucker,ear damage,unknown,
+Mattituck,8/2/2022,1:30:00 PM,yes,8/3/2022,1:00 PM,Control,1,1,clucker,none,unknown,
+Mattituck,8/2/2022,1:30:00 PM,yes,8/3/2022,1:00 PM,Control,1,2,unhinged,none,unknown,
+Mattituck,8/2/2022,1:30:00 PM,yes,8/3/2022,1:00 PM,Control,1,3,clucker,none,unknown,
+Mattituck,8/2/2022,1:30:00 PM,yes,8/3/2022,1:00 PM,Control,1,4,clucker,pry,small crab,pry mark is small
+Mattituck,8/2/2022,1:30:00 PM,yes,8/3/2022,1:00 PM,Control,1,5,clucker,pry,small crab,
+Mattituck,8/2/2022,1:30:00 PM,yes,8/3/2022,1:00 PM,Control,1,6,unhinged,none,unknown,
+Mattituck,8/2/2022,1:30:00 PM,yes,8/3/2022,1:00 PM,Control,1,7,unhinged,notch,whelk,
+Mattituck,8/2/2022,1:30:00 PM,yes,8/3/2022,1:00 PM,Control,1,8,unhinged,pry,small crab,also ear damage
+Mattituck,8/2/2022,1:30:00 PM,yes,8/3/2022,1:00 PM,Control,1,9,half shell,none,unknown,
+Mattituck,8/2/2022,1:30:00 PM,no,8/15/2022,1:15 PM,Control,1,10,clucker,none,unknown,
+Mattituck,8/2/2022,1:30:00 PM,yes,8/3/2022,1:00 PM,Control,2,1,alive,none,NA,
+Mattituck,8/2/2022,1:30:00 PM,yes,8/3/2022,1:00 PM,Control,2,2,clucker,notch,whelk,
+Mattituck,8/2/2022,1:30:00 PM,yes,8/3/2022,1:00 PM,Control,2,3,clucker,pry,small crab,
+Mattituck,8/2/2022,1:30:00 PM,yes,8/3/2022,1:00 PM,Control,2,4,unhinged,none,unknown,
+Mattituck,8/2/2022,1:30:00 PM,yes,8/3/2022,1:00 PM,Control,2,5,clucker,none,unknown,
+Mattituck,8/2/2022,1:30:00 PM,yes,8/3/2022,1:00 PM,Control,2,6,clucker,notch,whelk,
+Mattituck,8/2/2022,1:30:00 PM,yes,8/3/2022,1:00 PM,Control,2,7,half shell,none ,unknown,
+Mattituck,8/2/2022,1:30:00 PM,no,8/15/2022,1:15 PM,Control,2,8,unhinged,none,unknown,
+Mattituck,8/2/2022,1:30:00 PM,no,8/15/2022,1:15 PM,Control,2,9,half shell,none,unknown,polychaete damage
+Mattituck,8/2/2022,1:30:00 PM,no,8/15/2022,1:15 PM,Control,2,10,half shell,none,unknown,
+Mattituck,8/2/2022,1:30:00 PM,yes,8/3/2022,1:00 PM,Control,3,1,clucker,notch,whelk,
+Mattituck,8/2/2022,1:30:00 PM,yes,8/3/2022,1:00 PM,Control,3,2,clucker,none,unknown,
+Mattituck,8/2/2022,1:30:00 PM,yes,8/3/2022,1:00 PM,Control,3,3,clucker,notch,whelk,notch very small
+Mattituck,8/2/2022,1:30:00 PM,yes,8/3/2022,1:00 PM,Control,3,4,clucker,hole,spider crab,
+Mattituck,8/2/2022,1:30:00 PM,yes,8/3/2022,1:00 PM,Control,3,5,clucker,none,unknown,
+Mattituck,8/2/2022,1:30:00 PM,yes,8/3/2022,1:00 PM,Control,3,6,half shell,broken,crab,ear still on
+Mattituck,8/2/2022,1:30:00 PM,yes,8/3/2022,1:00 PM,Control,3,7,unhinged,broken,crab,
+Mattituck,8/2/2022,1:30:00 PM,no,8/15/2022,1:15 PM,Control,3,8,half shell,none,unknown,
+Mattituck,8/2/2022,1:30:00 PM,no,8/15/2022,1:15 PM,Control,3,9,broken,chip,crab,
+Mattituck,8/2/2022,1:30:00 PM,no,8/15/2022,1:15 PM,Control,3,10,did not recover,none,unsure,
+Cow Yard,8/2/2022,3:00:00 PM,yes,8/3/2022,2:00 PM,Cage,1,1,alive,none,NA,
+Cow Yard,8/2/2022,3:00:00 PM,yes,8/3/2022,2:00 PM,Cage,1,2,clucker,pry,small crab,
+Cow Yard,8/2/2022,3:00:00 PM,yes,8/3/2022,2:00 PM,Cage,1,3,clucker,notch,whelk,
+Cow Yard,8/2/2022,3:00:00 PM,yes,8/3/2022,2:00 PM,Cage,1,4,unhinged,none,unknown,chip probably from line
+Cow Yard,8/2/2022,3:00:00 PM,no,8/15/2022,2:30 PM,Cage,1,5,unhinged,pry,small crab,
+Cow Yard,8/2/2022,3:00:00 PM,no,8/15/2022,2:30 PM,Cage,1,6,unhinged,ear chip,unknown,
+Cow Yard,8/2/2022,3:00:00 PM,no,8/15/2022,2:30 PM,Cage,1,7,half shell,none,unknown,no paint mark
+Cow Yard,8/2/2022,3:00:00 PM,no,8/15/2022,2:30 PM,Cage,1,8,never recovered,none,unsure,
+Cow Yard,8/2/2022,3:00:00 PM,no,8/15/2022,2:30 PM,Cage,1,9,never recovered,none,unsure,
+Cow Yard,8/2/2022,3:00:00 PM,no,8/15/2022,2:30 PM,Cage,1,10,never recovered,none,unsure,
+Cow Yard,8/2/2022,3:00:00 PM,yes,8/3/2022,2:00 PM,Cage,2,1,alive,none,NA,
+Cow Yard,8/2/2022,3:00:00 PM,yes,8/3/2022,2:00 PM,Cage,2,2,clucker,none,unknown,
+Cow Yard,8/2/2022,3:00:00 PM,yes,8/3/2022,2:00 PM,Cage,2,3,clucker,pry,small crab,
+Cow Yard,8/2/2022,3:00:00 PM,yes,8/3/2022,2:00 PM,Cage,2,4,clucker,none,unknown,
+Cow Yard,8/2/2022,3:00:00 PM,yes,8/3/2022,2:00 PM,Cage,2,5,clucker,none,unknown,
+Cow Yard,8/2/2022,3:00:00 PM,yes,8/3/2022,2:00 PM,Cage,2,6,unhinged,chip,crab,
+Cow Yard,8/2/2022,3:00:00 PM,yes,8/3/2022,2:00 PM,Cage,2,7,half shell,none,unknown,
+Cow Yard,8/2/2022,3:00:00 PM,no,8/15/2022,2:30 PM,Cage,2,8,unhinged,notch,whelk,
+Cow Yard,8/2/2022,3:00:00 PM,no,8/15/2022,2:30 PM,Cage,2,9,unhinged,small pry,unknown,
+Cow Yard,8/2/2022,3:00:00 PM,no,8/15/2022,2:30 PM,Cage,2,10,unhinged,ear chip,unknown,
+Cow Yard,8/2/2022,3:00:00 PM,no,8/15/2022,2:30 PM,Cage,2,11,unhinged,none,unknown,
+Cow Yard,8/2/2022,3:00:00 PM,yes,8/3/2022,2:00 PM,Cage,3,1,clucker,none,unknown,small pry and notch?
+Cow Yard,8/2/2022,3:00:00 PM,yes,8/3/2022,2:00 PM,Cage,3,2,clucker,chip,crab,chip in weird spot
+Cow Yard,8/2/2022,3:00:00 PM,yes,8/3/2022,2:00 PM,Cage,3,3,clucker,none,unknown,boring polychaete
+Cow Yard,8/2/2022,3:00:00 PM,yes,8/3/2022,2:00 PM,Cage,3,4,clucker,none,unknown,
+Cow Yard,8/2/2022,3:00:00 PM,no,8/15/2022,2:30 PM,Cage,3,5,clucker,notch,whelk,mud crab inside
+Cow Yard,8/2/2022,3:00:00 PM,no,8/15/2022,2:30 PM,Cage,3,6,unhinged,pry,small crab,boring polychaete damage
+Cow Yard,8/2/2022,3:00:00 PM,no,8/15/2022,2:30 PM,Cage,3,7,unhinged,pry?,unknown,pry or notch at top of shelll?
+Cow Yard,8/2/2022,3:00:00 PM,no,8/15/2022,2:30 PM,Cage,3,8,unhinged,none,unknown,
+Cow Yard,8/2/2022,3:00:00 PM,no,8/15/2022,2:30 PM,Cage,3,9,unhinged,small ear chip,unknown,
+Cow Yard,8/2/2022,3:00:00 PM,no,8/15/2022,2:30 PM,Cage,3,10,did not recover,none,unsure,
+Cow Yard,8/2/2022,3:00:00 PM,yes,8/3/2022,2:00 PM,Control,1,1,clucker,none,unknown,
+Cow Yard,8/2/2022,3:00:00 PM,yes,8/3/2022,2:00 PM,Control,1,2,clucker,small pry,small crab,
+Cow Yard,8/2/2022,3:00:00 PM,yes,8/3/2022,2:00 PM,Control,1,3,clucker,notch,whelk,small notch
+Cow Yard,8/2/2022,3:00:00 PM,yes,8/3/2022,2:00 PM,Control,1,4,clucker,ear chip,crab,boring polychaete damage
+Cow Yard,8/2/2022,3:00:00 PM,yes,8/3/2022,2:00 PM,Control,1,5,clucker,none,unknown,
+Cow Yard,8/2/2022,3:00:00 PM,yes,8/3/2022,2:00 PM,Control,1,6,unhinged,none,unknown,
+Cow Yard,8/2/2022,3:00:00 PM,yes,8/3/2022,2:00 PM,Control,1,7,unhinged,none,unknown,damage on ear but not sure of source
+Cow Yard,8/2/2022,3:00:00 PM,no,8/15/2022,2:30 PM,Control,1,8,unhinged,OD hole,unknown,OD found in bag
+Cow Yard,8/2/2022,3:00:00 PM,no,8/15/2022,2:30 PM,Control,1,9,unhinged,none,unknown,
+Cow Yard,8/2/2022,3:00:00 PM,no,8/15/2022,2:30 PM,Control,1,10,unhinged,none,unknown,
+Cow Yard,8/2/2022,3:00:00 PM,yes,8/3/2022,2:00 PM,Control,2,1,clucker,pry,small crab,
+Cow Yard,8/2/2022,3:00:00 PM,yes,8/3/2022,2:00 PM,Control,2,2,clucker,none,unknown,
+Cow Yard,8/2/2022,3:00:00 PM,yes,8/3/2022,2:00 PM,Control,2,3,clucker,notch,whelk,
+Cow Yard,8/2/2022,3:00:00 PM,yes,8/3/2022,2:00 PM,Control,2,4,clucker,pry,small crab,
+Cow Yard,8/2/2022,3:00:00 PM,yes,8/3/2022,2:00 PM,Control,2,5,half shell,none,unknown,
+Cow Yard,8/2/2022,3:00:00 PM,yes,8/3/2022,2:00 PM,Control,2,6,unhinged,none,unknown,
+Cow Yard,8/2/2022,3:00:00 PM,yes,8/3/2022,2:00 PM,Control,2,7,unhinged,none,unknown,
+Cow Yard,8/2/2022,3:00:00 PM,no,8/15/2022,2:30 PM,Control,2,8,unhinged,pry,small crab,small pry mark
+Cow Yard,8/2/2022,3:00:00 PM,no,8/15/2022,2:30 PM,Control,2,9,half shell,notch,whelk,
+Cow Yard,8/2/2022,3:00:00 PM,no,8/15/2022,2:30 PM,Control,2,10,never recovered,none,unsure,
+Cow Yard,8/2/2022,3:00:00 PM,yes,8/3/2022,2:00 PM,Control,3,1,clucker,none,unknown,
+Cow Yard,8/2/2022,3:00:00 PM,yes,8/3/2022,2:00 PM,Control,3,2,clucker,none,unknown,
+Cow Yard,8/2/2022,3:00:00 PM,yes,8/3/2022,2:00 PM,Control,3,3,clucker,small pry,unknown,
+Cow Yard,8/2/2022,3:00:00 PM,yes,8/3/2022,2:00 PM,Control,3,4,unhinged,none,unknown,
+Cow Yard,8/2/2022,3:00:00 PM,yes,8/3/2022,2:00 PM,Control,3,5,half,none,unknown,
+Cow Yard,8/2/2022,3:00:00 PM,yes,8/3/2022,2:00 PM,Control,3,6,clucker,none,unknown,
+Cow Yard,8/2/2022,3:00:00 PM,yes,8/3/2022,2:00 PM,Control,3,7,clucker,notch,whelk,
+Cow Yard,8/2/2022,3:00:00 PM,yes,8/3/2022,2:00 PM,Control,3,8,unhinged,chip,crab,
+Cow Yard,8/2/2022,3:00:00 PM,yes,8/3/2022,2:00 PM,Control,3,9,unhinged,none,unknown,
+Cow Yard,8/2/2022,3:00:00 PM,no,8/15/2022,2:30 PM,Control,3,10,clucker,ear chip,unknown,"boring polychatete damage, can't tell if ear chip from line or not"
+Orient Point,9/19/2022,11:30 AM,yes,9/20/2022,10:30 AM,Cage,1,1,clucker,hole and chip,spider crab,
+Orient Point,9/19/2022,11:30 AM,yes,9/20/2022,10:30 AM,Cage,1,2,clucker,slight whelk notch,unknown,notch could be natural growth pattern
+Orient Point,9/19/2022,11:30 AM,yes,9/20/2022,10:30 AM,Cage,1,3,clucker,slight crab pry,unknown,mud crab inside
+Orient Point,9/19/2022,11:30 AM,yes,9/20/2022,10:30 AM,Cage,1,4,clucker,none,unknown,
+Orient Point,9/19/2022,11:30 AM,yes,9/20/2022,10:30 AM,Cage,1,5,unhinged,none,unknown,
+Orient Point,9/19/2022,11:30 AM,no,10/10/2022,10:30 AM,Cage,1,6,clucker,none,unknown,boring polychaete damage
+Orient Point,9/19/2022,11:30 AM,no,10/10/2022,10:30 AM,Cage,1,7,clucker,pry,small crab,"shell damage, full of holes"
+Orient Point,9/19/2022,11:30 AM,no,10/10/2022,10:30 AM,Cage,1,8,clucker,notch,whelk,notch on side of shell
+Orient Point,9/19/2022,11:30 AM,no,10/10/2022,10:30 AM,Cage,1,9,clucker,notch,whelk,notch on side of shell
+Orient Point,9/19/2022,11:30 AM,no,10/10/2022,10:30 AM,Cage,1,10,clucker,notch,whelk,
+Orient Point,9/19/2022,11:30 AM,yes,9/20/2022,10:30 AM,Cage,2,1,clucker,pry,small crab,
+Orient Point,9/19/2022,11:30 AM,yes,9/20/2022,10:30 AM,Cage,2,2,clucker,none,unknown,boring polychaete damage
+Orient Point,9/19/2022,11:30 AM,yes,9/20/2022,10:30 AM,Cage,2,3,clucker,notch,whelk,also ear chip
+Orient Point,9/19/2022,11:30 AM,yes,9/20/2022,10:30 AM,Cage,2,4,clucker,none,unknown,boring polychaete damage
+Orient Point,9/19/2022,11:30 AM,yes,9/20/2022,10:30 AM,Cage,2,5,clucker,none,unknown,
+Orient Point,9/19/2022,11:30 AM,yes,9/20/2022,10:30 AM,Cage,2,6,unhinged,notch,whelk,
+Orient Point,9/19/2022,11:30 AM,yes,9/20/2022,10:30 AM,Cage,2,7,unhinged,hole,spider crab,
+Orient Point,9/19/2022,11:30 AM,no,10/10/2022,10:30 AM,Cage,2,8,clucker,none,unknown,
+Orient Point,9/19/2022,11:30 AM,no,10/10/2022,10:30 AM,Cage,2,9,unhinged,none,unknown,
+Orient Point,9/19/2022,11:30 AM,no,10/10/2022,10:30 AM,Cage,2,10,unhinged,none,unknown,
+Orient Point,9/19/2022,11:30 AM,yes,9/20/2022,10:30 AM,Cage,3,1,clucker,notch,whelk,bunch of little holes....boring polychaete?
+Orient Point,9/19/2022,11:30 AM,yes,9/20/2022,10:30 AM,Cage,3,2,unhinged,none,unknown,
+Orient Point,9/19/2022,11:30 AM,yes,9/20/2022,10:30 AM,Cage,3,3,clucker,notch,whelk,mud crab inside
+Orient Point,9/19/2022,11:30 AM,yes,9/20/2022,10:30 AM,Cage,3,4,clucker,none,unknown,
+Orient Point,9/19/2022,11:30 AM,yes,9/20/2022,10:30 AM,Cage,3,5,clucker,pry,small crab,
+Orient Point,9/19/2022,11:30 AM,yes,9/20/2022,10:30 AM,Cage,3,6,clucker,none,unknown,
+Orient Point,9/19/2022,11:30 AM,yes,9/20/2022,10:30 AM,Cage,3,7,clucker,small pry,unknown,
+Orient Point,9/19/2022,11:30 AM,yes,9/20/2022,10:30 AM,Cage,3,8,clucker,pry,small crab,
+Orient Point,9/19/2022,11:30 AM,yes,9/20/2022,10:30 AM,Cage,3,9,clucker,big chip,crab,
+Orient Point,9/19/2022,11:30 AM,yes,9/20/2022,10:30 AM,Cage,3,10,half shell,none,unknown,polychaete shell damage
+Orient Point,9/19/2022,11:30 AM,yes,9/20/2022,10:30 AM,Control,1,1,clucker,none,unknown,very small potential pry
+Orient Point,9/19/2022,11:30 AM,yes,9/20/2022,10:30 AM,Control,1,2,clucker,none,unknown,
+Orient Point,9/19/2022,11:30 AM,yes,9/20/2022,10:30 AM,Control,1,3,clucker,chip,crab,
+Orient Point,9/19/2022,11:30 AM,yes,9/20/2022,10:30 AM,Control,1,4,clucker,notch,whelk,
+Orient Point,9/19/2022,11:30 AM,yes,9/20/2022,10:30 AM,Control,1,5,clucker,none,unknown,
+Orient Point,9/19/2022,11:30 AM,yes,9/20/2022,10:30 AM,Control,1,6,unhinged,ear chip,crab,damaged ear
+Orient Point,9/19/2022,11:30 AM,yes,9/20/2022,10:30 AM,Control,1,7,half shell,none,unknown,
+Orient Point,9/19/2022,11:30 AM,yes,9/20/2022,10:30 AM,Control,1,8,unhinged,chip,crab,
+Orient Point,9/19/2022,11:30 AM,yes,9/20/2022,10:30 AM,Control,1,9,unhinged,chip,crab,
+Orient Point,9/19/2022,11:30 AM,no,10/10/2022,10:30 AM,Control,1,10,did not recover,unsure,unknown,
+Orient Point,9/19/2022,11:30 AM,yes,9/20/2022,10:30 AM,Control,2,1,clucker,none,unknown,
+Orient Point,9/19/2022,11:30 AM,yes,9/20/2022,10:30 AM,Control,2,2,clucker,none,unknown,
+Orient Point,9/19/2022,11:30 AM,yes,9/20/2022,10:30 AM,Control,2,3,unhinged,smal pry marks,unknown,
+Orient Point,9/19/2022,11:30 AM,yes,9/20/2022,10:30 AM,Control,2,4,clucker,notch,whelk,
+Orient Point,9/19/2022,11:30 AM,yes,9/20/2022,10:30 AM,Control,2,5,unhinged,none,unknown,
+Orient Point,9/19/2022,11:30 AM,yes,9/20/2022,10:30 AM,Control,2,6,unhinged,pry,small crab,
+Orient Point,9/19/2022,11:30 AM,yes,9/20/2022,10:30 AM,Control,2,7,unhinged,none,unknown,
+Orient Point,9/19/2022,11:30 AM,yes,9/20/2022,10:30 AM,Control,2,8,unhinged,smal pry marks,unknown,
+Orient Point,9/19/2022,11:30 AM,yes,9/20/2022,10:30 AM,Control,2,9,unhinged,pry,small crab,
+Orient Point,9/19/2022,11:30 AM,yes,9/20/2022,10:30 AM,Control,2,10,half shell,none,unknown,
+Orient Point,9/19/2022,11:30 AM,yes,9/20/2022,10:30 AM,Control,3,1,clucker,pry,small crab,boring polychaete damage
+Orient Point,9/19/2022,11:30 AM,yes,9/20/2022,10:30 AM,Control,3,2,clucker,none,unknown,
+Orient Point,9/19/2022,11:30 AM,yes,9/20/2022,10:30 AM,Control,3,3,clucker,none,unknown,
+Orient Point,9/19/2022,11:30 AM,yes,9/20/2022,10:30 AM,Control,3,4,clucker,notch,whelk,
+Orient Point,9/19/2022,11:30 AM,yes,9/20/2022,10:30 AM,Control,3,5,clucker,none ,unknown,
+Orient Point,9/19/2022,11:30 AM,yes,9/20/2022,10:30 AM,Control,3,6,clucker,ear chip,crab,
+Orient Point,9/19/2022,11:30 AM,yes,9/20/2022,10:30 AM,Control,3,7,unhinged,chip,crab,
+Orient Point,9/19/2022,11:30 AM,yes,9/20/2022,10:30 AM,Control,3,8,half shell,pry,unknown,
+Orient Point,9/19/2022,11:30 AM,no,10/10/2022,10:30 AM,Control,3,9,clucker,chip,crab,boring polychaete damage
+Orient Point,9/19/2022,11:30 AM,no,10/10/2022,10:30 AM,Control,3,10,half shell,ear chip,unknown,ear chip could have been from line
+NW Harbor,9/19/2022,12:45 PM,yes,9/20/2022,12:30 PM,Cage,1,1,clucker,notch,whelk,
+NW Harbor,9/19/2022,12:45 PM,yes,9/20/2022,12:30 PM,Cage,1,2,clucker,none,unknown,
+NW Harbor,9/19/2022,12:45 PM,yes,9/20/2022,12:30 PM,Cage,1,3,unhinged,ear chip,crab,boring polychaete damage
+NW Harbor,9/19/2022,12:45 PM,yes,9/20/2022,12:30 PM,Cage,1,4,unhinged,chip,crab,
+NW Harbor,9/19/2022,12:45 PM,yes,9/20/2022,12:30 PM,Cage,1,5,half shell,chip,crab,
+NW Harbor,9/19/2022,12:45 PM,no,10/10/2022,12:30 PM,Cage,1,6,clucker,notch,whelk,boring polychaete damage
+NW Harbor,9/19/2022,12:45 PM,no,10/10/2022,12:30 PM,Cage,1,7,clucker,none,unknown,
+NW Harbor,9/19/2022,12:45 PM,no,10/10/2022,12:30 PM,Cage,1,8,clucker,none,unknown,
+NW Harbor,9/19/2022,12:45 PM,no,10/10/2022,12:30 PM,Cage,1,9,unhinged,none,unknown,damage on ear likely from line
+NW Harbor,9/19/2022,12:45 PM,no,10/10/2022,12:30 PM,Cage,1,10,unhinged,ear damage,unknown,
+NW Harbor,9/19/2022,12:45 PM,yes,9/20/2022,12:30 PM,Cage,2,1,clucker,none,unknown,boring polychaete damage
+NW Harbor,9/19/2022,12:45 PM,yes,9/20/2022,12:30 PM,Cage,2,2,clucker,none,unknown,boring polychaete damage
+NW Harbor,9/19/2022,12:45 PM,yes,9/20/2022,12:30 PM,Cage,2,3,clucker,notch,whelk,
+NW Harbor,9/19/2022,12:45 PM,yes,9/20/2022,12:30 PM,Cage,2,4,unhinged,chip,crab,
+NW Harbor,9/19/2022,12:45 PM,yes,9/20/2022,12:30 PM,Cage,2,5,clucker,chip,crab,
+NW Harbor,9/19/2022,12:45 PM,yes,9/20/2022,12:30 PM,Cage,2,6,clucker,ear chip,crab,
+NW Harbor,9/19/2022,12:45 PM,yes,9/20/2022,12:30 PM,Cage,2,7,unhinged,chip,crab,
+NW Harbor,9/19/2022,12:45 PM,yes,9/20/2022,12:30 PM,Cage,2,8,unhinged,small pry mark,unknown,
+NW Harbor,9/19/2022,12:45 PM,yes,9/20/2022,12:30 PM,Cage,2,9,half shell,ear damage,crab,
+NW Harbor,9/19/2022,12:45 PM,no,10/10/2022,12:30 PM,Cage,2,10,did not recover,unsure,unknown,
+NW Harbor,9/19/2022,12:45 PM,yes,9/20/2022,12:30 PM,Cage,3,1,clucker,none,unknown,
+NW Harbor,9/19/2022,12:45 PM,yes,9/20/2022,12:30 PM,Cage,3,2,clucker,notch,whelk,"boring polychaete damage, notch small"
+NW Harbor,9/19/2022,12:45 PM,yes,9/20/2022,12:30 PM,Cage,3,3,unhinged,OD hole,OD,
+NW Harbor,9/19/2022,12:45 PM,yes,9/20/2022,12:30 PM,Cage,3,4,clucker,pry,small crab,
+NW Harbor,9/19/2022,12:45 PM,yes,9/20/2022,12:30 PM,Cage,3,5,clucker,pry and ear chip,crab,"boring polychaete damage, notch small"
+NW Harbor,9/19/2022,12:45 PM,yes,9/20/2022,12:30 PM,Cage,3,6,half shell,small pry,unknown,
+NW Harbor,9/19/2022,12:45 PM,yes,9/20/2022,12:30 PM,Cage,3,7,clucker,none,unknown,
+NW Harbor,9/19/2022,12:45 PM,no,10/10/2022,12:30 PM,Cage,3,8,half shell,none,unknown,
+NW Harbor,9/19/2022,12:45 PM,no,10/10/2022,12:30 PM,Cage,3,9,damaged clucker,damage,crab,only a bit of the other side/glue hanging on
+NW Harbor,9/19/2022,12:45 PM,no,10/10/2022,12:30 PM,Cage,3,10,did not recover,unsure,unknown,
+NW Harbor,9/19/2022,12:45 PM,yes,9/20/2022,12:30 PM,Control,1,1,clucker,none,unknown,"boring polychaete damage, notch small"
+NW Harbor,9/19/2022,12:45 PM,yes,9/20/2022,12:30 PM,Control,1,2,unhinged,chip,crab,
+NW Harbor,9/19/2022,12:45 PM,yes,9/20/2022,12:30 PM,Control,1,3,clucker,pry,unknown,pry at top of shell
+NW Harbor,9/19/2022,12:45 PM,yes,9/20/2022,12:30 PM,Control,1,4,unhinged,chip,crab,
+NW Harbor,9/19/2022,12:45 PM,yes,9/20/2022,12:30 PM,Control,1,5,clucker,notch,whelk,
+NW Harbor,9/19/2022,12:45 PM,yes,9/20/2022,12:30 PM,Control,1,6,unhinged,notch,whelk,
+NW Harbor,9/19/2022,12:45 PM,no,10/10/2022,12:30 PM,Control,1,7,clucker,notch,whelk,5 ODs inside 
+NW Harbor,9/19/2022,12:45 PM,no,10/10/2022,12:30 PM,Control,1,8,clucker,notch,whelk,
+NW Harbor,9/19/2022,12:45 PM,no,10/10/2022,12:30 PM,Control,1,9,did not recover,unsure,unknown,
+NW Harbor,9/19/2022,12:45 PM,no,10/10/2022,12:30 PM,Control,1,10,did not recover,unsure,unknown,
+NW Harbor,9/19/2022,12:45 PM,yes,9/20/2022,12:30 PM,Control,2,1,clucker,none,unknown,very small potential pry
+NW Harbor,9/19/2022,12:45 PM,yes,9/20/2022,12:30 PM,Control,2,2,clucker,pry,small crab,
+NW Harbor,9/19/2022,12:45 PM,yes,9/20/2022,12:30 PM,Control,2,3,half shell,chip,crab,
+NW Harbor,9/19/2022,12:45 PM,no,10/10/2022,12:30 PM,Control,2,4,clucker,notch,whelk,small notch
+NW Harbor,9/19/2022,12:45 PM,no,10/10/2022,12:30 PM,Control,2,5,unhinged,notch,whelk,
+NW Harbor,9/19/2022,12:45 PM,no,9/20/2022,12:30 PM,Control,2,6,unhinged,chip,crab,
+NW Harbor,9/19/2022,12:45 PM,no,10/10/2022,12:30 PM,Control,2,7,half shell,none,unknown,
+NW Harbor,9/19/2022,12:45 PM,no,10/10/2022,12:30 PM,Control,2,8,did not recover,unsure,unknown,
+NW Harbor,9/19/2022,12:45 PM,no,10/10/2022,12:30 PM,Control,2,9,did not recover,unsure,unknown,
+NW Harbor,9/19/2022,12:45 PM,no,10/10/2022,12:30 PM,Control,2,10,did not recover,unsure,unknown,
+NW Harbor,9/19/2022,12:45 PM,yes,9/20/2022,12:30 PM,Control,3,1,clucker,none,unknown,
+NW Harbor,9/19/2022,12:45 PM,yes,9/20/2022,12:30 PM,Control,3,2,clucker,ear chip,unknown,can't tell if ear chip is from line
+NW Harbor,9/19/2022,12:45 PM,yes,9/20/2022,12:30 PM,Control,3,3,clucker,none,unknown,
+NW Harbor,9/19/2022,12:45 PM,yes,9/20/2022,12:30 PM,Control,3,4,half shell,none,unknown,
+NW Harbor,9/19/2022,12:45 PM,no,10/10/2022,12:30 PM,Control,3,5,clucker,chip,crab,
+NW Harbor,9/19/2022,12:45 PM,no,10/10/2022,12:30 PM,Control,3,6,clucker,none,unknown,
+NW Harbor,9/19/2022,12:45 PM,no,10/10/2022,12:30 PM,Control,3,7,unhinged,notch,whelk,
+NW Harbor,9/19/2022,12:45 PM,no,10/10/2022,12:30 PM,Control,3,8,unhinged,notch,whelk,
+NW Harbor,9/19/2022,12:45 PM,no,10/10/2022,12:30 PM,Control,3,9,half shell,none,unknown,
+Mattituck,9/19/2022,12:45 PM,no,10/10/2022,12:30 PM,Control,3,10,did not recover,unsure,unknown,
+Mattituck,9/19/2022,2:10 PM,yes,9/20/2022,2:00 PM,Cage,1,1,clucker,notch,whelk,
+Mattituck,9/19/2022,2:10 PM,yes,9/20/2022,2:00 PM,Cage,1,2,clucker,none,unknown,boring polychaete
+Mattituck,9/19/2022,2:10 PM,yes,9/20/2022,2:00 PM,Cage,1,3,clucker,none,unknown,
+Mattituck,9/19/2022,2:10 PM,yes,9/20/2022,2:00 PM,Cage,1,4,clucker,pry,small crab,
+Mattituck,9/19/2022,2:10 PM,yes,9/20/2022,2:00 PM,Cage,1,5,clucker,ear chip,crab,
+Mattituck,9/19/2022,2:10 PM,yes,9/20/2022,2:00 PM,Cage,1,6,unhinged,none,unknown,
+Mattituck,9/19/2022,2:10 PM,no,10/10/2022,2:00 PM,Cage,1,7,unhinged,chip,crab,
+Mattituck,9/19/2022,2:10 PM,no,10/10/2022,2:00 PM,Cage,1,8,clucker,none,unknown,
+Mattituck,9/19/2022,2:10 PM,no,10/10/2022,2:00 PM,Cage,1,9,did not recover,unsure,unknown,
+Mattituck,9/19/2022,2:10 PM,no,10/10/2022,2:00 PM,Cage,1,10,did not recover,unsure,unknown,
+Mattituck,9/19/2022,2:10 PM,yes,9/20/2022,2:00 PM,Cage,2,1,clucker,none,unknown,
+Mattituck,9/19/2022,2:10 PM,yes,9/20/2022,2:00 PM,Cage,2,2,clucker,none,unknown,
+Mattituck,9/19/2022,2:10 PM,yes,9/20/2022,2:00 PM,Cage,2,3,clucker,pry marks,unknown,
+Mattituck,9/19/2022,2:10 PM,yes,9/20/2022,2:00 PM,Cage,2,4,clucker,none,unknown,
+Mattituck,9/19/2022,2:10 PM,no,10/10/2022,2:00 PM,Cage,2,5,half shell,crack,unknown,
+Mattituck,9/19/2022,2:10 PM,no,10/10/2022,2:00 PM,Cage,2,6,clucker,notch,whelk,
+Mattituck,9/19/2022,2:10 PM,no,10/10/2022,2:00 PM,Cage,2,7,unhinged,notch,whelk,
+Mattituck,9/19/2022,2:10 PM,no,10/10/2022,2:00 PM,Cage,2,8,unhinged,none,unknown,
+Mattituck,9/19/2022,2:10 PM,no,10/10/2022,2:00 PM,Cage,2,9,unhinged,pry marks,unknown,
+Mattituck,9/19/2022,2:10 PM,no,10/10/2022,2:00 PM,Cage,2,10,half shell,none,unknown,
+Mattituck,9/19/2022,2:10 PM,yes,9/20/2022,2:00 PM,Cage,3,1,clucker,small ear chip,unknown,
+Mattituck,9/19/2022,2:10 PM,yes,9/20/2022,2:00 PM,Cage,3,2,clucker,none,unknown,
+Mattituck,9/19/2022,2:10 PM,yes,9/20/2022,2:00 PM,Cage,3,3,clucker,chip,crab,
+Mattituck,9/19/2022,2:10 PM,yes,9/20/2022,2:00 PM,Cage,3,4,clucker,none,unknown,
+Mattituck,9/19/2022,2:10 PM,no,10/10/2022,2:00 PM,Cage,3,5,clucker,none,unknown,evidence of boring polychaete
+Mattituck,9/19/2022,2:10 PM,no,10/10/2022,2:00 PM,Cage,3,6,clucker,none,unknown,
+Mattituck,9/19/2022,2:10 PM,no,10/10/2022,2:00 PM,Cage,3,7,"half shell, ear attached",ear damage,crab,evidence of boring polychaete
+Mattituck,9/19/2022,2:10 PM,no,10/10/2022,2:00 PM,Cage,3,8,unhinged,ear chip,crab,what looks like a notch is probably just natural growth variation
+Mattituck,9/19/2022,2:10 PM,no,10/10/2022,2:00 PM,Cage,3,9,broken half shell,cracked,crab,
+Mattituck,9/19/2022,2:10 PM,no,10/10/2022,2:00 PM,Cage,3,10,did not recover,unsure,unknown,
+Mattituck,9/19/2022,2:10 PM,yes,9/20/2022,2:00 PM,Control,1,1,clucker,none,uknown,
+Mattituck,9/19/2022,2:10 PM,yes,9/20/2022,2:00 PM,Control,1,2,clucker,pry,small crab,
+Mattituck,9/19/2022,2:10 PM,yes,9/20/2022,2:00 PM,Control,1,3,clucker,none,uknown,evidence of boring polychaete
+Mattituck,9/19/2022,2:10 PM,yes,9/20/2022,2:00 PM,Control,1,4,unhinged,ear chip,uknown,
+Mattituck,9/19/2022,2:10 PM,no,10/10/2022,2:00 PM,Control,1,5,clucker,"OD hole, slight whelk notch",OD,
+Mattituck,9/19/2022,2:10 PM,no,10/10/2022,2:00 PM,Control,1,6,clucker,small pry,unknown,evidence of boring polychaete
+Mattituck,9/19/2022,2:10 PM,no,10/10/2022,2:00 PM,Control,1,7,clucker,notch,whelk,evidence of boring polychaete
+Mattituck,9/19/2022,2:10 PM,no,10/10/2022,2:00 PM,Control,1,8,half shell,none,unknown,
+Mattituck,9/19/2022,2:10 PM,no,10/10/2022,2:00 PM,Control,1,9,unhinged,pry,small crab,
+Mattituck,9/19/2022,2:10 PM,no,10/10/2022,2:00 PM,Control,1,10,clucker,chip,crab,
+Mattituck,9/19/2022,2:10 PM,yes,9/20/2022,2:00 PM,Control,2,1,clucker,none,unknown,
+Mattituck,9/19/2022,2:10 PM,yes,9/20/2022,2:00 PM,Control,2,2,clucker,none,unknown,
+Mattituck,9/19/2022,2:10 PM,yes,9/20/2022,2:00 PM,Control,2,3,clucker,pry,small crab,
+Mattituck,9/19/2022,2:10 PM,yes,9/20/2022,2:00 PM,Control,2,4,clucker,none,unknown,
+Mattituck,9/19/2022,2:10 PM,yes,9/20/2022,2:00 PM,Control,2,5,clucker,none,unknown,
+Mattituck,9/19/2022,2:10 PM,yes,9/20/2022,2:00 PM,Control,2,6,clucker,pry,small crab,
+Mattituck,9/19/2022,2:10 PM,yes,9/20/2022,2:00 PM,Control,2,7,unhinged,none,unknown,
+Mattituck,9/19/2022,2:10 PM,yes,9/20/2022,2:00 PM,Control,2,8,clucker,none,unknown,
+Mattituck,9/19/2022,2:10 PM,yes,9/20/2022,2:00 PM,Control,2,9,unhinged,chip,crab,
+Mattituck,9/19/2022,2:10 PM,no,10/10/2022,2:00 PM,Control,2,10,clucker,ear chip,crab,"boring polychaete damage, "
+Mattituck,9/19/2022,2:10 PM,yes,9/20/2022,2:00 PM,Control,3,1,clucker,notch,whelk,
+Mattituck,9/19/2022,2:10 PM,yes,9/20/2022,2:00 PM,Control,3,2,clucker,notch,whelk,
+Mattituck,9/19/2022,2:10 PM,yes,9/20/2022,2:00 PM,Control,3,3,clucker,none,unknown,
+Mattituck,9/19/2022,2:10 PM,yes,9/20/2022,2:00 PM,Control,3,4,clucker,none,unknown,
+Mattituck,9/19/2022,2:10 PM,no,9/20/2022,2:00 PM,Control,3,5,clucker,none,unknown,"boring polychaete damage, "
+Mattituck,9/19/2022,2:10 PM,no,9/20/2022,2:00 PM,Control,3,6,clucker,2 OD holes,OD,
+Mattituck,9/19/2022,2:10 PM,no,9/20/2022,2:00 PM,Control,3,7,unhinged,pry,small crab,pry is small
+Mattituck,9/19/2022,2:10 PM,no,9/20/2022,2:00 PM,Control,3,8,unhinged,notch,whelk,
+Mattituck,9/19/2022,2:10 PM,no,9/20/2022,2:00 PM,Control,3,9,unhinged,ear chip,crab,
+Mattituck,9/19/2022,2:10 PM,no,9/20/2022,2:00 PM,Control,3,10,did not recover,unsure,unknown,
+Cow Yard,9/19/2022,2:55 PM,yes,9/20/2022,3:30 PM,Cage,1,1,clucker,none,unknown,weak shell
+Cow Yard,9/19/2022,2:55 PM,yes,9/20/2022,3:30 PM,Cage,1,2,unhinged,broken,crab,
+Cow Yard,9/19/2022,2:55 PM,yes,9/20/2022,3:30 PM,Cage,1,3,broken shard,shell piece,unknown,
+Cow Yard,9/19/2022,2:55 PM,no,10/10/2022,3:30 PM,Cage,1,4,clucker,OD holes,OD,mud crab inside
+Cow Yard,9/19/2022,2:55 PM,no,10/10/2022,3:30 PM,Cage,1,5,clucker,OD hole,OD,
+Cow Yard,9/19/2022,2:55 PM,no,10/10/2022,3:30 PM,Cage,1,6,clucker,OD hole,OD,
+Cow Yard,9/19/2022,2:55 PM,no,10/10/2022,3:30 PM,Cage,1,7,clucker,crack/hole punch,spider crab,
+Cow Yard,9/19/2022,2:55 PM,no,10/10/2022,3:30 PM,Cage,1,8,half shell,none,unknown,
+Cow Yard,9/19/2022,2:55 PM,no,10/10/2022,3:30 PM,Cage,1,9,did not recover,unsure,unknown,
+Cow Yard,9/19/2022,2:55 PM,no,10/10/2022,3:30 PM,Cage,1,10,did not recover,unsure,unknown,
+Cow Yard,9/19/2022,2:55 PM,yes,9/20/2022,3:30 PM,Cage,2,1,clucker,notch,whelk,ear broke while I was processing
+Cow Yard,9/19/2022,2:55 PM,yes,9/20/2022,3:30 PM,Cage,2,2,clucker,none,unknown,
+Cow Yard,9/19/2022,2:55 PM,yes,9/20/2022,3:30 PM,Cage,2,3,clucker,"broken, massive hole",spider crab,
+Cow Yard,9/19/2022,2:55 PM,no,10/10/2022,3:30 PM,Cage,2,4,clucker,notch,whelk,
+Cow Yard,9/19/2022,2:55 PM,no,10/10/2022,3:30 PM,Cage,2,5,clucker,notch,whelk,
+Cow Yard,9/19/2022,2:55 PM,no,10/10/2022,3:30 PM,Cage,2,6,clucker,none,unknown,"lots of little holes, boring polychaete"
+Cow Yard,9/19/2022,2:55 PM,no,10/10/2022,3:30 PM,Cage,2,7,half shell,OD hole,OD,
+Cow Yard,9/19/2022,2:55 PM,no,10/10/2022,3:30 PM,Cage,2,8,unhinged,OD hole,OD,
+Cow Yard,9/19/2022,2:55 PM,no,10/10/2022,3:30 PM,Cage,2,9,did not recover,unsure,unknown,
+Cow Yard,9/19/2022,2:55 PM,no,10/10/2022,3:30 PM,Cage,2,10,did not recover,unsure,unknown,
+Cow Yard,9/19/2022,2:55 PM,yes,9/20/2022,3:30 PM,Cage,2,1,clucker,notch,whelk,
+Cow Yard,9/19/2022,2:55 PM,yes,9/20/2022,3:30 PM,Cage,3,2,clucker,none,unknown,
+Cow Yard,9/19/2022,2:55 PM,yes,9/20/2022,3:30 PM,Cage,3,3,unhinged,none,unknown,
+Cow Yard,9/19/2022,2:55 PM,no,10/10/2022,3:30 PM,Cage,3,4,unhinged,OD hole,OD,
+Cow Yard,9/19/2022,2:55 PM,no,10/10/2022,3:30 PM,Cage,3,5,unhinged,OD hole,OD,small potential pry
+Cow Yard,9/19/2022,2:55 PM,no,10/10/2022,3:30 PM,Cage,3,6,did not recover,unsure,unknown,
+Cow Yard,9/19/2022,2:55 PM,no,10/10/2022,3:30 PM,Cage,3,7,did not recover,unsure,unknown,
+Cow Yard,9/19/2022,2:55 PM,no,10/10/2022,3:30 PM,Cage,3,8,did not recover,unsure,unknown,
+Cow Yard,9/19/2022,2:55 PM,no,10/10/2022,3:30 PM,Cage,3,9,did not recover,unsure,unknown,
+Cow Yard,9/19/2022,2:55 PM,no,10/10/2022,3:30 PM,Cage,3,10,did not recover,unsure,unknown,
+Cow Yard,9/19/2022,2:55 PM,yes,9/20/2022,3:30 PM,Control,1,1,clucker,none,unknown,really small potential pry
+Cow Yard,9/19/2022,2:55 PM,yes,9/20/2022,3:30 PM,Control,1,2,clucker,small pry,small crab,
+Cow Yard,9/19/2022,2:55 PM,yes,9/20/2022,3:30 PM,Control,1,3,unhinged,none,unknown,boring polychaete damage
+Cow Yard,9/19/2022,2:55 PM,yes,9/20/2022,3:30 PM,Control,1,4,unhinged,small hole,spider crab,boring polychaete damage
+Cow Yard,9/19/2022,2:55 PM,no,10/10/2022,3:30 PM,Control,1,5,unhinged,none,unknown,
+Cow Yard,9/19/2022,2:55 PM,no,10/10/2022,3:30 PM,Control,1,6,unhinged,none,unknown,
+Cow Yard,9/19/2022,2:55 PM,no,10/10/2022,3:30 PM,Control,1,7,half shell,chip,crab,
+Cow Yard,9/19/2022,2:55 PM,no,10/10/2022,3:30 PM,Control,1,8,did not recover,unsure,unknown,
+Cow Yard,9/19/2022,2:55 PM,no,10/10/2022,3:30 PM,Control,1,9,did not recover,unsure,unknown,
+Cow Yard,9/19/2022,2:55 PM,no,10/10/2022,3:30 PM,Control,1,10,did not recover,unsure,unknown,
+Cow Yard,9/19/2022,2:55 PM,yes,9/20/2022,3:30 PM,Control,2,1,clucker,broken,crab,
+Cow Yard,9/19/2022,2:55 PM,yes,9/20/2022,3:30 PM,Control,2,2,unhinged,chip,crab,
+Cow Yard,9/19/2022,2:55 PM,no,10/10/2022,3:30 PM,Control,2,3,clucker,none,unknown,boring polychaete damage
+Cow Yard,9/19/2022,2:55 PM,no,10/10/2022,3:30 PM,Control,2,4,unhinged,ear chip,crab,
+Cow Yard,9/19/2022,2:55 PM,no,10/10/2022,3:30 PM,Control,2,5,unhinged,none,unknown,bunch of little holes
+Cow Yard,9/19/2022,2:55 PM,no,10/10/2022,3:30 PM,Control,2,6,unhinged,none,unknown,
+Cow Yard,9/19/2022,2:55 PM,no,10/10/2022,3:30 PM,Control,2,7,unhinged,none,unknown,bunch of little holes
+Cow Yard,9/19/2022,2:55 PM,no,10/10/2022,3:30 PM,Control,2,8,unhinged,"OD hole, pry marks",small crab,
+Cow Yard,9/19/2022,2:55 PM,no,10/10/2022,3:30 PM,Control,2,9,half shell,none,unknown,
+Cow Yard,9/19/2022,2:55 PM,no,10/10/2022,3:30 PM,Control,2,10,half shell,none,unknown,
+Cow Yard,9/19/2022,2:55 PM,no,10/10/2022,3:30 PM,Control,2,11,broken half shell,"broken, hinge attached",crab,
+Cow Yard,9/19/2022,2:55 PM,yes,9/20/2022,3:30 PM,Control,3,1,clucker,none,unknown,
+Cow Yard,9/19/2022,2:55 PM,yes,9/20/2022,3:30 PM,Control,3,2,unhinged,notch,whelk,ear chip also
+Cow Yard,9/19/2022,2:55 PM,yes,9/20/2022,3:30 PM,Control,3,3,unhinged,none,unknown,
+Cow Yard,9/19/2022,2:55 PM,yes,9/20/2022,3:30 PM,Control,3,4,half shell,none,unknown,
+Cow Yard,9/19/2022,2:55 PM,no,10/10/2022,3:30 PM,Control,3,5,clucker,chip,crab,
+Cow Yard,9/19/2022,2:55 PM,no,10/10/2022,3:30 PM,Control,3,6,clucker,OD hole,unknown,hole is small
+Cow Yard,9/19/2022,2:55 PM,no,10/10/2022,3:30 PM,Control,3,7,unhinged,OD holes,OD,
+Cow Yard,9/19/2022,2:55 PM,no,10/10/2022,3:30 PM,Control,3,8,unhinged,chip,crab,
+Cow Yard,9/19/2022,2:55 PM,no,10/10/2022,3:30 PM,Control,3,9,unhinged,small pry,unknown,
+Cow Yard,9/19/2022,2:55 PM,no,10/10/2022,3:30 PM,Control,3,10,broken half shell,"broken, hinge attached",crab,
+Cow Yard,9/19/2022,2:55 PM,no,10/10/2022,3:30 PM,Control,3,11,half shell,none,unknown,
